@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#35d973"/>
+      <stop offset="1" stop-color="#24cc63"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4120" data-name="Group 4120" transform="translate(-508.645 -856.645)">
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="16" cy="16" r="16" transform="translate(508.645 856.645)" fill="url(#linear-gradient)"/>
+    <g id="wp" transform="translate(123.102 749.102)">
+      <rect id="Rectangle_1784" data-name="Rectangle 1784" width="20" height="20" transform="translate(391.543 113.543)" fill="none"/>
+      <g id="whatsapp" transform="translate(393.584 115.584)">
+        <g id="Group_3220" data-name="Group 3220">
+          <path id="Path_4898" data-name="Path 4898" d="M7.961,0h0A7.954,7.954,0,0,0,1.515,12.624L.523,15.581,3.582,14.6A7.958,7.958,0,1,0,7.961,0Zm4.631,11.239a2.246,2.246,0,0,1-1.562,1.123c-.416.089-.959.159-2.788-.6a9.97,9.97,0,0,1-3.963-3.5,4.546,4.546,0,0,1-.945-2.4,2.541,2.541,0,0,1,.814-1.937,1.156,1.156,0,0,1,.814-.286c.1,0,.187,0,.267.009.234.01.351.024.505.393.192.463.66,1.6.715,1.722a.474.474,0,0,1,.034.431,1.375,1.375,0,0,1-.258.365C6.108,6.7,6,6.8,5.88,6.944c-.107.126-.229.262-.094.5a7.064,7.064,0,0,0,1.291,1.6A5.851,5.851,0,0,0,8.944,10.2a.5.5,0,0,0,.561-.089,9.629,9.629,0,0,0,.622-.824A.444.444,0,0,1,10.7,9.11c.215.075,1.352.637,1.586.753s.388.173.445.272A1.982,1.982,0,0,1,12.592,11.239Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

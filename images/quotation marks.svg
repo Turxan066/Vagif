@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="quotation_marks" data-name="quotation marks" transform="translate(-1602.492 -21.492)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="24" height="24" transform="translate(1602.492 21.492)" fill="none"/>
+    <g id="inverted-commas" transform="translate(1603.482 25.235)">
+      <path id="Path_5127" data-name="Path 5127" d="M2,77.61a4.4,4.4,0,1,0,4.4-4.4,4.356,4.356,0,0,0-2.007.5,7.728,7.728,0,0,1,7.52-6.008,1.1,1.1,0,0,0,0-2.2A9.926,9.926,0,0,0,2,75.417Z" transform="translate(-2 -65.5)" fill="#003f7d"/>
+      <path id="Path_5128" data-name="Path 5128" d="M255.8,77.61a4.4,4.4,0,1,0,4.4-4.4,4.356,4.356,0,0,0-2.007.5,7.728,7.728,0,0,1,7.52-6.008,1.1,1.1,0,1,0,0-2.2,9.926,9.926,0,0,0-9.917,9.917Z" transform="translate(-244.799 -65.5)" fill="#003f7d"/>
+    </g>
+  </g>
+</svg>

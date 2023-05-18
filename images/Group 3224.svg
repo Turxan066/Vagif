@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1da5e9"/>
+      <stop offset="1" stop-color="#0084c6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3224" data-name="Group 3224" transform="translate(-447.224 -857.224)">
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="16" cy="16" r="16" transform="translate(447.224 857.224)" fill="url(#linear-gradient)"/>
+    <g id="teleg" transform="translate(453.266 863.266)">
+      <rect id="Rectangle_1784" data-name="Rectangle 1784" width="20" height="20" transform="translate(-0.041 -0.042)" fill="none"/>
+      <path id="telegram" d="M6.178,10.647l-.26,3.663a.911.911,0,0,0,.728-.352l1.747-1.67,3.62,2.651c.664.37,1.132.175,1.311-.611L15.7,3.195h0c.211-.981-.355-1.365-1-1.124L.731,7.417c-.953.37-.939.9-.162,1.142L4.14,9.67l8.294-5.19c.39-.258.745-.115.453.143Z" transform="translate(2.086 1.398)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

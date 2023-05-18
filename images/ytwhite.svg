@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="yt" transform="translate(-391.901 -113.901)">
+    <rect id="Rectangle_1784" data-name="Rectangle 1784" width="20" height="20" transform="translate(391.901 113.901)" fill="none"/>
+    <g id="youtube" transform="translate(393.802 118.164)">
+      <g id="Group_4677" data-name="Group 4677">
+        <path id="Path_5161" data-name="Path 5161" d="M15.974,61.6a1.809,1.809,0,0,0-1.453-1.481,52.061,52.061,0,0,0-12.841,0A1.809,1.809,0,0,0,.226,61.6a33.1,33.1,0,0,0,0,7.719A1.808,1.808,0,0,0,1.68,70.8a52.059,52.059,0,0,0,12.841,0,1.808,1.808,0,0,0,1.453-1.481A33.093,33.093,0,0,0,15.974,61.6ZM6.75,68.158v-5.4l4.05,2.7Z" transform="translate(0 -59.72)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

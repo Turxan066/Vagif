@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="a-" transform="translate(-1111 -370)">
+    <g id="minus" transform="translate(245 -300)">
+      <rect id="Rectangle_1920" data-name="Rectangle 1920" width="10" height="10" transform="translate(875 672)" fill="none"/>
+      <path id="minus-small" d="M.625,0h6.25a.625.625,0,0,1,0,1.25H.625A.625.625,0,0,1,.625,0Z" transform="translate(876.25 676.375)" fill="#0b0c0c"/>
+    </g>
+    <rect id="Rectangle_2018" data-name="Rectangle 2018" width="20" height="20" transform="translate(1111 370)" fill="none"/>
+    <path id="Path_5366" data-name="Path 5366" d="M.208,0,2.192-9.456H3.856L5.824,0H4.464L4.016-2.08H1.936L1.52,0ZM1.984-2.72h2L2.992-8.112Z" transform="translate(1115 385)" fill="#0b0c0c"/>
+  </g>
+</svg>
